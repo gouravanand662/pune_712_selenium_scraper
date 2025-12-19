@@ -1,0 +1,486 @@
+2025-12-19 21:07:37,514 - Ward 12 Parcel 103 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:07:37,648 - Ward 12 Parcel 104 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:07:37,694 - Ward 15 Parcel 201 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:26:43,832 - Ward 12 Parcel 103 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:26:43,865 - Ward 12 Parcel 104 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:26:43,908 - Ward 15 Parcel 201 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:27:36,205 - Ward 12 Parcel 103 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:27:36,322 - Ward 12 Parcel 104 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:27:36,471 - Ward 15 Parcel 201 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:30:25,782 - Ward 12 Parcel 103 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:30:25,877 - Ward 12 Parcel 104 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:30:25,954 - Ward 15 Parcel 201 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:34:53,363 - Ward 12 Parcel 103 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:34:53,443 - Ward 12 Parcel 104 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:34:53,514 - Ward 15 Parcel 201 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:53:40,999 - Ward 12 Parcel 103 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:53:41,135 - Ward 12 Parcel 104 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+
+2025-12-19 21:53:41,301 - Ward 15 Parcel 201 -> Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="ward"]"}
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xe412d3
+	0xe41314
+	0xc2e6dd
+	0xc793a5
+	0xc7977b
+	0xcc0382
+	0xc9b534
+	0xcbdb13
+	0xc9b2e6
+	0xc6d321
+	0xc6e1d4
+	0x1095314
+	0x10908cb
+	0x10ad1aa
+	0xe5b1d8
+	0xe631dd
+	0xe495d8
+	0xe49799
+	0xe33b28
+	0x75be5d49
+	0x773acf0b
+	0x773ace91
+

@@ -1,0 +1,7 @@
+{
+  "base_url": "C:\\Users\testVM1\\Downloads\\pune_712_selenium_scraper\\demo_portal.html",
+  "output_dir": "output",
+  "headless": false,
+  "page_load_wait": 2,
+  "captcha_pause": false
+}
