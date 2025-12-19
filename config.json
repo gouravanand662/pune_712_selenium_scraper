@@ -1,0 +1,7 @@
+{
+  "base_url": "file:///home/gouravanand6622/Freelancer/pune_712_selenium_scraper/demo_portal.html",
+  "output_dir": "output",
+  "headless": true,
+  "page_load_wait": 2,
+  "captcha_pause": false
+}

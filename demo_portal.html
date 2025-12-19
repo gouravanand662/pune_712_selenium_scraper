@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Demo 7/12 Portal</title>
+  <style>
+    body { font-family: Arial; padding: 30px; }
+    input, button { margin: 5px; }
+    img { margin-top: 20px; width: 400px; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+
+<h2>Pune 7/12 Demo Portal</h2>
+
+<label>Ward:</label>
+<input id="ward" />
+
+<label>Parcel:</label>
+<input id="parcel" />
+
+<button onclick="showImage()">Search</button>
+
+<p><strong>CAPTCHA:</strong> Please solve manually (demo)</p>
+
+<img id="result" src="" />
+
+<script>
+function showImage() {
+  let parcel = document.getElementById("parcel").value;
+  document.getElementById("result").src = "demo_images/" + parcel + ".jpg";
+}
+</script>
+
+</body>
+</html>
