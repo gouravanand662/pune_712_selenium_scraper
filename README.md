@@ -9,10 +9,7 @@
 
 ### How to Run
 1. Clone the GitHub repository
-2. Install dependencies using ```bash pip install -r requirements.txt
+2. Install dependencies using "pip install -r requirements.txt"
 3. Update input.csv with sample ward and parcel numbers
-4. Run the craper using ```bash python scraper.py
+4. Run the craper using "python scraper.py"
 5. Review the downloaded images and generated ZIP file in the output folder
-```bash
-pip install -r requirements.txt
-python scraper.py
